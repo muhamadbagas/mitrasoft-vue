@@ -5,23 +5,23 @@ import "vue3-carousel/dist/carousel.css";
 const items = [
   {
     id: "1",
-    src: "https://iili.io/HN8G1GR.jpg",
+    src: "https://iili.io/HNSaOs2.md.jpg",
   },
   {
     id: "2",
-    src: "https://iili.io/HN8Gjun.jpg",
+    src: "https://iili.io/HN8GYTg.md.jpg",
   },
   {
     id: "3",
-    src: "https://iili.io/HN8GYTg.jpg",
+    src: "https://iili.io/HNSawx4.md.jpg",
   },
   {
     id: "4",
-    src: "https://iili.io/HN8GXyX.jpg",
+    src: "https://iili.io/HN8GM3N.md.jpg",
   },
   {
     id: "5",
-    src: "https://iili.io/HN8GM3N.jpg",
+    src: "https://iili.io/HNSakfS.md.jpg",
   },
 ];
 </script>
