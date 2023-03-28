@@ -138,7 +138,7 @@
                 />
               </svg>
             </a>
-            <a href="facebook.com">
+            <a href="https://www.facebook.com">
               <svg
                 width="32"
                 height="33"

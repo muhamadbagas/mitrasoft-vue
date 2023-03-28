@@ -73,7 +73,7 @@ import LogoSecondary from "./LogoSecondary.vue";
                 </defs>
               </svg>
             </a>
-            <a href=""
+            <a href="#"
               ><svg
                 width="24"
                 height="25"
