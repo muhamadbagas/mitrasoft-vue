@@ -46,7 +46,7 @@
           class="w-11/12 lg:w-full my-3 lg:my-0 mx-4 lg:mx-0 bg-secondary rounded-lg hover:opacity-80 transition duration-400 ease-in-out"
         >
           <a
-            href="#"
+            href="https://forum.mitrasoft.com"
             class="text-base capitalize font-medium text-white py-3 mx-8 flex justify-center"
             >Forum
           </a>
