@@ -34,11 +34,18 @@
           >About
         </a>
       </li>
+      <li class="group">
+        <a
+          href="#partner"
+          class="text-base capitalize font-medium text-dark py-3 mx-8 flex group-hover:text-secondary"
+          >Partner
+        </a>
+      </li>
       <li class="group lg:mr-7">
         <a
-          href="#event"
+          href="#client"
           class="text-base capitalize font-medium text-dark py-3 mx-8 flex group-hover:text-secondary"
-          >Event
+          >Client
         </a>
       </li>
       <li class="group overflow-hidden flex justify-center">

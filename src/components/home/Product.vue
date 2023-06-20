@@ -24,13 +24,18 @@ import ProductCard from "../materials/ProductCard.vue";
       </p>
 
       <div class="flex flex-wrap mt-12">
-        <div class="w-full self-center px-4 lg:w-1/3">
+        <div class="w-full">
+          <ProductCard />
+        </div>
+
+        <!-- <div class="w-full self-center px-4 lg:w-1/3">
           <ProductCard
             title="CBS Islamic Banking Application (IBA)"
             content="CBS Islamic Banking Application (IBA) system is
                     customizable, integrates easily with other systems, and
                     provides real-time processing and reporting capabilities."
             alt="Islamic Banking Application"
+            image="https://iili.io/H6BQ2hG.md.png"
           />
         </div>
         <div class="w-full self-center px-4 my-9 lg:my-0 lg:w-1/3">
@@ -40,6 +45,7 @@ import ProductCard from "../materials/ProductCard.vue";
                     designed to focus on providing financial services to
                     low-income communities and promoting financial inclusion."
             alt="Islamic Micro Finance Application"
+            image="https://iili.io/H6CCXbs.png"
           />
         </div>
         <div class="w-full self-start px-4 lg:w-1/3">
@@ -50,8 +56,9 @@ import ProductCard from "../materials/ProductCard.vue";
                     capabilities to support their daily operations and enhance
                     the learning experience."
             alt="Education Application"
+            image="https://iili.io/H63KWyN.png"
           />
-        </div>
+        </div> -->
       </div>
     </div>
   </section>

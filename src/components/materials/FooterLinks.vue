@@ -12,8 +12,11 @@
     <a href="#about"
       ><p class="text-sm text-white my-2 md:text-base lg:my-4">About</p></a
     >
-    <a href="#event"
-      ><p class="text-sm text-white my-2 md:text-base lg:my-4">Event</p></a
+    <a href="#partner"
+      ><p class="text-sm text-white my-2 md:text-base lg:my-4">Partner</p></a
+    >
+    <a href="#client"
+      ><p class="text-sm text-white my-2 md:text-base lg:my-4">Client</p></a
     >
   </div>
 </template>

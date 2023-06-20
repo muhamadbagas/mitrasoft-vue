@@ -15,7 +15,7 @@
         Contact us today to learn more!
       </p>
       <div class="flex flex-wrap mt-6 lg:mt-12">
-        <div class="w-full self-center px-2 lg:px-8 lg:w-1/2">
+        <div class="w-full self-center px-4 lg:px-8 lg:w-1/2">
           <div class="map-responsive">
             <iframe
               src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3964.2643987029237!2d106.77025731485587!3d-6.488165495306546!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69c3f149bcd845%3A0xa2e3b773f9d800b8!2sPT%20Mitrasoft%20Global%20Perdana!5e0!3m2!1sid!2sid!4v1677481838569!5m2!1sid!2sid"
@@ -36,8 +36,8 @@
             PT Mitrasoft Global Perdana
           </h3>
           <p class="text-base text-slate-700 mb-4 md:text-lg">
-            Address: Ruko Pura Bojonggede Jalan Madura I No.34 Kel, Tajurhalang,
-            Kec. Tajur Halang, Kabupaten Bogor, Jawa Barat. 16920.
+            Address: Ruko Pura Bojonggede Jalan Madura I No.34, Kel.
+            Tajurhalang, Kec. Tajur Halang, Kabupaten Bogor, Jawa Barat. 16920.
           </p>
           <h3 class="text-lg font-bold text-secondary mb-2 md:text-2xl">
             Contact us
@@ -71,7 +71,7 @@
             <p
               class="text-base text-slate-700 self-center mx-4 my-2 md:text-lg"
             >
-              <a href="mailto:admin@mitrasoft.com">admin@mitrasoft.com</a>
+              <a href="mailto:cs@mitrasoft.com">cs@mitrasoft.com</a>
             </p>
           </div>
 
@@ -97,7 +97,7 @@
           </div>
 
           <div class="flex flex-row self-center my-4">
-            <a href="https://www.instagram.com/mitrasoft/"
+            <a href="https://www.instagram.com/mitrasoft/" target="_blank"
               ><svg
                 width="32"
                 height="32"
@@ -123,7 +123,10 @@
                 </defs>
               </svg>
             </a>
-            <a href="https://www.linkedin.com/company/mitrasoft/">
+            <a
+              href="https://www.linkedin.com/company/mitrasoft/"
+              target="_blank"
+            >
               <svg
                 width="32"
                 height="32"
@@ -138,7 +141,7 @@
                 />
               </svg>
             </a>
-            <a href="https://www.facebook.com">
+            <!-- <a href="https://www.facebook.com">
               <svg
                 width="32"
                 height="33"
@@ -152,7 +155,7 @@
                   fill="#167CC8"
                 />
               </svg>
-            </a>
+            </a> -->
           </div>
         </div>
       </div>

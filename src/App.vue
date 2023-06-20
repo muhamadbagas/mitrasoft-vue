@@ -1,13 +1,7 @@
-<script setup>
-import Footer from "./components/materials/Footer.vue";
-import NavigationBar from "./components/materials/NavigationBar.vue";
-import HomeView from "./components/views/HomeView.vue";
-</script>
+<script setup></script>
 
 <template>
-  <NavigationBar />
-  <HomeView />
-  <Footer />
+  <router-view></router-view>
 </template>
 
 <style>

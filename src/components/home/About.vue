@@ -35,12 +35,12 @@
             needs.
           </p>
         </div>
-        <div class="w-full self-center px-2 lg:px-8 lg:w-1/2">
-          <div class="relative mt-10 lg:mt-20 lg:right-0">
+        <div class="w-full self-center px-4 lg:px-8 lg:w-1/2">
+          <div class="relative mt-10 lg:mt-20 lg:right-0 rounded-lg">
             <img
-              src="@/assets/img/about.png"
+              src="https://iili.io/H6wQB6l.md.jpg"
               alt="Home Vector"
-              class="max-w-full mx-auto"
+              class="max-w-full mx-auto rounded-xl lg:rounded-3xl shadow-lg"
             />
           </div>
         </div>

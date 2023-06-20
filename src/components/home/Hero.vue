@@ -23,7 +23,7 @@
         <div class="w-full self-end px-4 mb-4 lg:mb-0 lg:w-1/2">
           <div class="relative mt-10 lg:mt-20 lg:right-0">
             <img
-              src="@/assets/img/home.png"
+              src="@/assets/img/home2.png"
               alt="Home Vector"
               class="max-w-full mx-auto"
             />

@@ -27,7 +27,7 @@
         </defs>
       </svg>
       <p class="text-sm text-white mx-4 my-2 md:text-base lg:my-0">
-        <a href="mailto:admin@mitrasoft.com">admin@mitrasoft.com</a>
+        <a href="mailto:cs@mitrasoft.com">cs@mitrasoft.com</a>
       </p>
     </div>
 

@@ -29,7 +29,7 @@ import LogoSecondary from "./LogoSecondary.vue";
             Copyright © 2023 PT Mitrasoft Global Perdana
           </p>
           <div class="hidden lg:flex lg:flex-row">
-            <a href="https://www.instagram.com/mitrasoft/"
+            <a href="https://www.instagram.com/mitrasoft/" target="_blank"
               ><svg
                 width="24"
                 height="24"
@@ -51,7 +51,9 @@ import LogoSecondary from "./LogoSecondary.vue";
                 </defs>
               </svg>
             </a>
-            <a href="https://www.linkedin.com/company/mitrasoft/"
+            <a
+              href="https://www.linkedin.com/company/mitrasoft/"
+              target="_blank"
               ><svg
                 width="24"
                 height="24"
@@ -73,7 +75,7 @@ import LogoSecondary from "./LogoSecondary.vue";
                 </defs>
               </svg>
             </a>
-            <a href="#"
+            <!-- <a href="#"
               ><svg
                 width="24"
                 height="25"
@@ -87,7 +89,7 @@ import LogoSecondary from "./LogoSecondary.vue";
                   fill="#FEFEFE"
                 />
               </svg>
-            </a>
+            </a> -->
           </div>
         </div>
       </div>
