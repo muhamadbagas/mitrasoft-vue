@@ -16,12 +16,12 @@ import Footer from "@/components/materials/Footer.vue";
     <NavigationBar />
     <Hero />
     <Profile />
-    <Product />
-    <Contact />
     <About />
+    <Product />
     <!-- <Event /> -->
     <Partner />
     <Client />
+    <Contact />
     <Footer />
   </main>
 </template>

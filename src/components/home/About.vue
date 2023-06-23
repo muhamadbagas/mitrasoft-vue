@@ -1,3 +1,7 @@
+<script setup>
+import AboutCarousel from "../materials/AboutCarousel.vue";
+</script>
+
 <template>
   <section id="about" class="pt-28 pb-8 lg:py-16">
     <div class="container">
@@ -37,11 +41,12 @@
         </div>
         <div class="w-full self-center px-4 lg:px-8 lg:w-1/2">
           <div class="relative mt-10 lg:mt-20 lg:right-0 rounded-lg">
-            <img
+            <AboutCarousel />
+            <!-- <img
               src="https://iili.io/H6wQB6l.md.jpg"
               alt="Home Vector"
               class="max-w-full mx-auto rounded-xl lg:rounded-3xl shadow-lg"
-            />
+            /> -->
           </div>
         </div>
       </div>

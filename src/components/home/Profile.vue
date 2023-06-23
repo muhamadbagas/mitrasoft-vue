@@ -164,8 +164,8 @@
                       Up to date
                     </h3>
                     <p class="mb-4 text-base text-center">
-                      Aside from doing routine system update, our company also
-                      keep up with the latest regulation from OJK.
+                      Aside from doing routine system update, our company keep
+                      up with the latest regulation from OJK.
                     </p>
                   </div>
                 </div>

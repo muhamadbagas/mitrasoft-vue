@@ -15,23 +15,16 @@
       </li>
       <li class="group">
         <a
-          href="#product"
-          class="text-base capitalize font-medium text-dark py-3 mx-8 flex group-hover:text-secondary"
-          >Product
-        </a>
-      </li>
-      <li class="group">
-        <a
-          href="#contact"
-          class="text-base capitalize font-medium text-dark py-3 mx-8 flex group-hover:text-secondary"
-          >Contact
-        </a>
-      </li>
-      <li class="group">
-        <a
           href="#about"
           class="text-base capitalize font-medium text-dark py-3 mx-8 flex group-hover:text-secondary"
           >About
+        </a>
+      </li>
+      <li class="group">
+        <a
+          href="#product"
+          class="text-base capitalize font-medium text-dark py-3 mx-8 flex group-hover:text-secondary"
+          >Product
         </a>
       </li>
       <li class="group">
@@ -41,19 +34,27 @@
           >Partner
         </a>
       </li>
-      <li class="group lg:mr-7">
+      <li class="group">
         <a
           href="#client"
           class="text-base capitalize font-medium text-dark py-3 mx-8 flex group-hover:text-secondary"
           >Client
         </a>
       </li>
+      <li class="group lg:mr-7">
+        <a
+          href="#contact"
+          class="text-base capitalize font-medium text-dark py-3 mx-8 flex group-hover:text-secondary"
+          >Contact
+        </a>
+      </li>
       <li class="group overflow-hidden flex justify-center">
         <button
-          class="w-11/12 lg:w-full my-3 lg:my-0 mx-4 lg:mx-0 bg-secondary rounded-lg hover:opacity-80 transition duration-400 ease-in-out"
+          class="w-11/12 lg:w-full my-3 lg:my-0 mx-4 lg:mx-0 bg-primary rounded-lg hover:opacity-80 transition duration-400 ease-in-out"
         >
           <a
             href="https://forum.mitrasoft.com"
+            target="_blank"
             class="text-base capitalize font-medium text-white py-3 mx-8 flex justify-center"
             >Forum
           </a>

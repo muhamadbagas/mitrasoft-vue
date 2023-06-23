@@ -2,7 +2,7 @@
 
 <template>
   <!-- Client Section Start -->
-  <section id="client" class="pt-28 pb-16 lg:pt-16 lg:pb-24">
+  <section id="client" class="pt-28 pb-8 lg:py-16">
     <div class="container">
       <!-- Title Start -->
       <h3
@@ -11,7 +11,7 @@
         Meet our clients
       </h3>
       <h1
-        class="text-3xl font-bold text-dark text-center mb-4 md:text-5xl lg:mt-3"
+        class="text-3xl font-extrabold text-dark text-center mb-4 md:text-5xl lg:mt-3"
       >
         Client
       </h1>
@@ -121,7 +121,7 @@
       </div>
       <!-- Client End Bottom -->
       <p
-        class="text-lg font-bold text-secondary text-center mb-4 lg:text-lg lg:mt-20"
+        class="text-lg font-bold text-black text-center mb-4 lg:text-lg lg:mt-20"
       >
         More than 100+ other BPRS and 50+ BMT/<br />KSPPS across Indonesia
       </p>

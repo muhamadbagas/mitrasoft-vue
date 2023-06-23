@@ -29,7 +29,7 @@ const items = [
     content:
       "CBS Islamic Micro Finance Application (IMFA) system is designed to focus on providing financial services to low-income communities and promoting financial inclusion.",
     alt: "Islamic Micro Finance Application",
-    image: "https://iili.io/H6CCXbs.png",
+    image: "https://iili.io/HPxdD9R.png",
   },
   {
     id: "3",
@@ -51,7 +51,7 @@ const items = [
     id: "5",
     title: "IBA/IMFA Mobile Application",
     content:
-      "Islamic Banking Application (IBA) / Islamic Micro Finance Application (IMFA) Mobile Application is a Banking Application in a mobile version that we provides real-time processing and reporting capabilities on mobile banking services.",
+      "Islamic Banking Application (IBA) / Islamic Micro Finance Application (IMFA) Mobile Application is a Banking Application in a mobile version that we provides real-time processing and reporting capabilities on banking services.",
     alt: "IBA/IMFA Mobile Application",
     image: "https://iili.io/H6BQ2hG.md.png",
   },
@@ -59,7 +59,7 @@ const items = [
     id: "6",
     title: "Virtual Account",
     content:
-      "We provide virtual account number in order to help BPRS to receive any transfer of funds from another bank into BPRS Bank Account. With our innovative virtual account product, users can connected to their funds with ease and convenience.",
+      "We provide virtual account number in order to help BPRS to receive any transfer of funds from another bank into BPRS Bank Account. With our  virtual account product, users can connected to their funds with ease and convenience.",
     alt: "Virtual Account",
     image: "https://iili.io/H6AaFwX.png",
   },
@@ -75,7 +75,7 @@ const items = [
     id: "8",
     title: "Mobile Collector",
     content:
-      "We provide Mobile Collector service in order to help BPRS collecting their fund from the debtor. With our Mobile Collector, managing and resolving debts become a seamless and efficient process just with your mobile collector device.",
+      "We provide Mobile Collector service in order to help BPRS collecting their fund from the debtor. With our Mobile Collector, managing and resolving debts become an efficient process just with your mobile collector device.",
     alt: "Mobile Collector",
     image: "https://iili.io/H6w0GI4.png",
   },
@@ -83,7 +83,7 @@ const items = [
     id: "9",
     title: "Cloud Server",
     content:
-      "We provide and maintaining cloud server for BPRS to running their banking application server needs. With our robust cloud server product, we provide a scalable and secure infrastructure that empowers you to effortlessly manage the server.",
+      "We provide and maintaining cloud server for BPRS to running their banking application server needs. With our cloud server product, it is scalable and secure infrastructure that empowers you to effortlessly manage the server.",
     alt: "Cloud Server",
     image: "https://iili.io/H6pGhTQ.png",
     // https://iili.io/H6AvS5P.png

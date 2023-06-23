@@ -1,5 +1,5 @@
 <template>
-  <section id="contact" class="pt-28 pb-8 lg:py-16">
+  <section id="contact" class="pt-28 pb-16 mb-0 lg:pt-16 lg:pb-32 lg:mb-16">
     <div class="container">
       <h3
         class="text-xl font-bold text-secondary text-center mb-4 md:text-2xl lg:mt-20"

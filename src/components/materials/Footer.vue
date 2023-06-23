@@ -5,7 +5,7 @@ import LogoSecondary from "./LogoSecondary.vue";
 </script>
 
 <template>
-  <footer class="bg-slate-700 pt-12 pb-9 lg:py-16">
+  <footer class="bg-primary pt-12 pb-9 lg:py-16">
     <div class="container">
       <div class="flex flex-wrap lg:justify-between mb-6">
         <div class="w-full self-center px-4 lg:px-0 lg:w-1/3">
