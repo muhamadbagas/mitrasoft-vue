@@ -47,7 +47,8 @@
       </svg>
 
       <p class="text-sm text-white mx-4 my-2 md:text-base lg:my-4">
-        +62 812-8334-6263
+        <!-- +62 812-8334-6263 -->
+        +62 858-1977-8415
       </p>
     </div>
   </div>
