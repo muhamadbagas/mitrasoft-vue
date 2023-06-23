@@ -92,7 +92,8 @@
             <p
               class="text-base text-slate-700 self-center mx-4 my-2 md:text-lg"
             >
-              +62 812-8334-6263
+              <!-- +62 812-8334-6263 -->
+              +62 858-1977-8415
             </p>
           </div>
 
