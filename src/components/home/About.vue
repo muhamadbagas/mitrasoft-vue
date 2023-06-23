@@ -40,7 +40,7 @@ import AboutCarousel from "../materials/AboutCarousel.vue";
           </p>
         </div>
         <div class="w-full self-center px-4 lg:px-8 lg:w-1/2">
-          <div class="relative mt-10 lg:mt-20 lg:right-0 rounded-lg">
+          <div class="relative mt-10 lg:right-0 rounded-lg">
             <AboutCarousel />
             <!-- <img
               src="https://iili.io/H6wQB6l.md.jpg"
