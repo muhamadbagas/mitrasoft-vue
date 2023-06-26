@@ -21,7 +21,7 @@ const items = [
     content:
       "CBS Islamic Banking Application (IBA) system is customizable, integrates easily with other systems, and provides real-time financial processing and reporting capabilities.",
     alt: "Islamic Banking Application",
-    image: "https://iili.io/H6BQ2hG.md.png",
+    image: "https://iili.io/HP46UvV.png",
   },
   {
     id: "2",
