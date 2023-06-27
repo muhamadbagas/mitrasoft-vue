@@ -40,7 +40,7 @@ const items = [
     :transition="500"
   >
     <Slide v-for="item in items" :key="item.id">
-      <div class="carousel__item p-6 lg:mx-4">
+      <div class="carousel__item py-6 px-4 lg:mx-4">
         <a href="#!">
           <img
             class="max-w-full mx-auto rounded-xl lg:rounded-3xl shadow-lg"
